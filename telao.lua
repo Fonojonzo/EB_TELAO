@@ -1,4 +1,4 @@
-local Meme = ""
+local Meme = "11566608684"
 
 
 
